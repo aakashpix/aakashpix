@@ -29,24 +29,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-gn&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="naveen-gn" />
 </p>
 
-
-## My Status:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Naveen-gn&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
-
-
-## Activity On GitHub:
-
-<p align="center">
-  <a href="https://github.com/Naveen-gn"> 
-    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Naveen-gn&count_private=true&theme=dark&border_radius=10&stroke=f53b3b" alt="streak stats"/>
-
-
-</a> 
-</p>
-
 ## My Contributions:
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/output/github-contribution-grid-snake-light.svg" />
 </div>
