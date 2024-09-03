@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aakash and I'm a Person Passionate to code things, from INDIA</h2>
+<h2 align="left">Hi 👋! My name is Aaakas and I'm a Developer, from INDIA</h2>
 
 ###
 
