@@ -1,12 +1,52 @@
-<h2 align="left">IAM Aakash a passionate developer from india.</h2>
+<h1 align="center">Hi 👋, I'm Aakash</h1>
+<h3 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Fullstack+Developer;Open+Source+Contributor;MERN+Stack+Developer%7C;Software+Developer+;Programmer" alt="Typing SVG" /></a>
+</h3>
 
-###
+<img align="right" alt="Coding" height="250" width="250" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/main/portfolio.png">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashpix&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aakashpix&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=aakashpix&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashpix&radius=16&theme=chartreuse-dark&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+- 👯 I’m looking to collaborate with **New things**
+
+- 🌱 I’m currently pursing **B.TECH(IT) in RMK Engineering College**
+
+- 💻 Connect with me on [https://www.linkedin.com/in/aakash-a-43891526b/](https://www.linkedin.com/in/aakash-a-43891526b/)
+
+- 📫 Reach me on **aakashananth2@gmail.com**
+
+- 👨‍💻 All of my projects are available at **https://github.com/aakashpix**
+
+## Connect With Me:
+<p align="left">
+<a href="https://www.linkedin.com/in/naveen-g-281356253" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/naveen-g-281356253" height="30" width="40" /></a><a href="https://leetcode.com/Naveen12gn/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Naveen12gn/" height="30" width="40" /></a><a href="https://www.hackerrank.com/profile/naveen2003gn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/naveen2003gn" height="30" width="40" /></a><a href="https://twitter.com/@naveen12gn" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@naveen12gn" height="30" width="40" /></a><a href="https://www.instagram.com/naveenexe" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/naveenexe" height="30" width="40" /></a><a href="https://fb.com/https://www.facebook.com/profile.php?id=100022489606274" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100022489606274" height="30" width="40" /></a>
+</p>
+
+## Languages And Tools:
+
+<p align="center"> <a href="https://github.com/Naveen-gn"><img src="https://skillicons.dev/icons?i=html,css,js,react,vite,redux,bootstrap,tailwindcss,nodejs,express,mongodb,firebase,mysql,python,java,c,vscode,github,git,windows,linux,kali,redhat,postman,npm,figma,vercel,netlify,stackoverflow,linkedin"> </a> </p>
+
+## Most Used Languages:
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen-gn&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="naveen-gn" />
+</p>
+
+
+## My Status:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Naveen-gn&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+
+## Activity On GitHub:
+
+<p align="center">
+  <a href="https://github.com/Naveen-gn"> 
+    <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Naveen-gn&count_private=true&theme=dark&border_radius=10&stroke=f53b3b" alt="streak stats"/>
+
+
+</a> 
+</p>
+
+## My Contributions:
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-###
