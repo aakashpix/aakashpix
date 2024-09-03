@@ -31,5 +31,5 @@
 
 ## My Contributions:
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/output/github-contribution-grid-snake-light.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/output/github-contribution-grid-snake-dark.svg?theme=light" />
 </div>
