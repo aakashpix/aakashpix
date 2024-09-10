@@ -3,8 +3,8 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Fullstack+Developer;Open+Source+Contributor;MERN+Stack+Developer%7C;Software+Developer+;Programmer" alt="Typing SVG" /></a>
 </h3>
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/aakashpix/aakashpix/main/Portfolio.png">
-height="250" width="250"
+<img align="right" alt="Coding" height="250" width="250" src="https://raw.githubusercontent.com/aakashpix/aakashpix/main/Portfolio.png">
+
 - 👯 I’m looking to collaborate with **New things**
 
 - 🌱 I’m currently pursuing **B.TECH(IT) in RMK Engineering College**
