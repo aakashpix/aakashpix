@@ -36,5 +36,5 @@
 
 ## My Contributions:
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aakashpix/aakashpix/output/github-contribution-grid-snake-dark.svg?theme=light" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Naveen-gn/Naveen-gn/output/github-contribution-grid-snake-dark.svg" />
 </div>
